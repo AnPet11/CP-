@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/angelina/AUTOMATION_nullist/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
